@@ -37,24 +37,7 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
 
-|![](https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)|![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)|![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|![](https://img.shields.io/badge/DBeaver-339933?style=for-the-badge&logo=dbeaver&logoColor=white)|
-
-<Br>
-<hr>
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HibaHnaine&repo=Your_Project_Name)](https://github.com/HibaHnaine/Your_Project_Name)
-
-<Br>
-<hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-
-[![Hiba's github stats](https://github-readme-stats.vercel.app/api?username=HibaHnaine&show_icons=true&theme=merko)](https://github.com/HibaHnaine/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaHnaine&layout=compact&theme=merko)](https://github.com/HibaHnaine/github-readme-stats)
+|![](https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)|![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)|![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)|![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
 
 <Br>
 <hr>
